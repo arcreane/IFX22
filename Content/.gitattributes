@@ -1,0 +1,2 @@
+Gros_asset filter=lfs diff=lfs merge=lfs -text
+Gros_asset/* filter=lfs diff=lfs merge=lfs -text
